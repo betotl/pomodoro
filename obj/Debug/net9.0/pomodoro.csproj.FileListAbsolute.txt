@@ -1,0 +1,14 @@
+C:\code\pomodoro\bin\Debug\net9.0\pomodoro.exe
+C:\code\pomodoro\bin\Debug\net9.0\pomodoro.deps.json
+C:\code\pomodoro\bin\Debug\net9.0\pomodoro.runtimeconfig.json
+C:\code\pomodoro\bin\Debug\net9.0\pomodoro.dll
+C:\code\pomodoro\bin\Debug\net9.0\pomodoro.pdb
+C:\code\pomodoro\obj\Debug\net9.0\pomodoro.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\pomodoro\obj\Debug\net9.0\pomodoro.AssemblyInfoInputs.cache
+C:\code\pomodoro\obj\Debug\net9.0\pomodoro.AssemblyInfo.cs
+C:\code\pomodoro\obj\Debug\net9.0\pomodoro.csproj.CoreCompileInputs.cache
+C:\code\pomodoro\obj\Debug\net9.0\pomodoro.dll
+C:\code\pomodoro\obj\Debug\net9.0\refint\pomodoro.dll
+C:\code\pomodoro\obj\Debug\net9.0\pomodoro.pdb
+C:\code\pomodoro\obj\Debug\net9.0\pomodoro.genruntimeconfig.cache
+C:\code\pomodoro\obj\Debug\net9.0\ref\pomodoro.dll
