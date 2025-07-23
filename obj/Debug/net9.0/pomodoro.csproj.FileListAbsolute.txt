@@ -12,3 +12,4 @@ C:\code\pomodoro\obj\Debug\net9.0\refint\pomodoro.dll
 C:\code\pomodoro\obj\Debug\net9.0\pomodoro.pdb
 C:\code\pomodoro\obj\Debug\net9.0\pomodoro.genruntimeconfig.cache
 C:\code\pomodoro\obj\Debug\net9.0\ref\pomodoro.dll
+C:\code\pomodoro\obj\Debug\net9.0\pomodoro.sourcelink.json

@@ -16,7 +16,7 @@ int minutesCounter = 0;
 bool pomodoroDone = false;
 
 
-
+Console.CursorVisible = false;
 SetTimer();
 
 
@@ -47,7 +47,7 @@ while (menuSelection != -100)
     {
         case SessionType.Pomodoro:
             secondsSetpoint = 60;
-            minutesSetpoint = 1;
+            minutesSetpoint = 25;
             break;
         case SessionType.ShortBreak:
             secondsSetpoint = 60;
@@ -58,6 +58,7 @@ while (menuSelection != -100)
             minutesSetpoint = 15;
             break;
     }
+    Console.Clear();
 
     // Start the timer show up the pomodoro screen
     aTimer.Enabled = true;
@@ -117,10 +118,12 @@ void SetTimer()
 
 void OnTimeEvent(Object source, ElapsedEventArgs e)
 {
-    Console.Clear();
+    //Console.Clear();
     //Console.WriteLine($"Pomodoro: {e.SignalTime:HH:mm:ss.fff}");
-    Console.WriteLine($"Pomodoro Setpoint: {minutesSetpoint:00}:{0:00}");
-    Console.WriteLine($"Pomodoro Time: {minutesCounter:00}:{secondsCounter:00}");
+    Console.SetCursorPosition(0, 0);
+    Console.Write($"Pomodoro Setpoint: {minutesSetpoint:00}:{0:00}");
+    Console.SetCursorPosition(0,1);
+    Console.Write($"Pomodoro Time: {minutesCounter:00}:{secondsCounter:00}");
     secondsCounter += 1;
     if (secondsCounter >= secondsSetpoint)
     {
