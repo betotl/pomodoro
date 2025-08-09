@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\pomodoro\\pomodoro.csproj": {}
+    "C:\\Users\\jalbe\\source\\repos\\betotl\\pomodoro\\pomodoro.csproj": {}
   },
   "projects": {
-    "C:\\code\\pomodoro\\pomodoro.csproj": {
+    "C:\\Users\\jalbe\\source\\repos\\betotl\\pomodoro\\pomodoro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\pomodoro\\pomodoro.csproj",
+        "projectUniqueName": "C:\\Users\\jalbe\\source\\repos\\betotl\\pomodoro\\pomodoro.csproj",
         "projectName": "pomodoro",
-        "projectPath": "C:\\code\\pomodoro\\pomodoro.csproj",
+        "projectPath": "C:\\Users\\jalbe\\source\\repos\\betotl\\pomodoro\\pomodoro.csproj",
         "packagesPath": "C:\\Users\\jalbe\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\pomodoro\\obj\\",
+        "outputPath": "C:\\Users\\jalbe\\source\\repos\\betotl\\pomodoro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

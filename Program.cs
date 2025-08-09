@@ -43,21 +43,7 @@ while (menuSelection != -100)
     /*
         Configure the correct pomodoro times.
     */
-    switch ((SessionType)menuSelection)
-    {
-        case SessionType.Pomodoro:
-            secondsSetpoint = 60;
-            minutesSetpoint = 25;
-            break;
-        case SessionType.ShortBreak:
-            secondsSetpoint = 60;
-            minutesSetpoint = 5;
-            break;
-        case SessionType.LongBreak:
-            secondsSetpoint = 60;
-            minutesSetpoint = 15;
-            break;
-    }
+    
     Console.Clear();
 
     // Start the timer show up the pomodoro screen
